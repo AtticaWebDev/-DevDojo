@@ -7,11 +7,10 @@ Ce repo me sert à centraliser mes exercices, challenges et mini-projets pour pr
 - 🔥 Revoir **toutes les bases** du développement **front-end et back-end**  
 - 💪 Renforcer ma compréhension des concepts fondamentaux  
 - 🎯 Pratiquer à travers des exercices et des mini-projets concrets  
-- 🏆 Suivre ma progression au fil du temps  
+- 🏆 Suivre ma progression au fil du temps
 
-
-## 🚀 Progression  
-Voici les étapes de mon apprentissage :  
+  ## 📚 Structure du repo  
+Chaque dossier contient des challenges de pratique correspondant à une catégorie spécifique d’apprentissage :  
 
 ### 🛢️ **Front-end**  
 - [ ] HTML / CSS (bases, responsive design)  
